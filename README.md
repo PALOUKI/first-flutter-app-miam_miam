@@ -2,7 +2,7 @@
 Here is a small food app that I actually built; it’s my first Flutter application. miam_miam is an application that I coded to practice CRUD in Flutter.
 
 <details>
-<summary>📷 Screenshots</summary>
+<summary>📷 <h2>Screenshots<h2/></summary>
 
 ![](lib/screenshots/login.png)
 ![](lib/screenshots/foodpage.png)
