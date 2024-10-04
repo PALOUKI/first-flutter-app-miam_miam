@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491286714079",
+    "project_id": "food-5b2eb",
+    "storage_bucket": "food-5b2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491286714079:android:2435da355996e71323fb6a",
+        "android_client_info": {
+          "package_name": "com.food.miam_miam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wUgLdnfS1YEAjr_elI2N4KsyHy1UUdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
