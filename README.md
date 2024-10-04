@@ -1,14 +1,16 @@
-<<<<<<< HEAD
-# food-app-miam_miam
-=======
 # miam_miam
 Here is a small food app that I actually built; it’s my first Flutter application. miam_miam is an application that I coded to practice CRUD in Flutter.
 
+<details>
+<summary>📷 Screenshots</summary>
 
 ![](lib/screenshots/login.png)
 ![](lib/screenshots/foodpage.png)
 ![](lib/screenshots/add.png)
 ![](lib/screenshots/editfood.png)
+
+</details>
+
 A new Flutter project.
 
 ## Getting Started
