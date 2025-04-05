@@ -1,13 +1,7 @@
 # miam_miam
 Here is a small food app that I have built. it’s my first Flutter application. miam_miam is an application that I coded to practice CRUD in Flutter using firebase.
 
-<details>
-<summary>📷 <h2>Screenshots<h2/></summary>
 
-![](lib/screenshots/login.png)
-![](lib/screenshots/foodpage.png)
-![](lib/screenshots/add.png)
-![](lib/screenshots/editfood.png)
 ### App Preview
 
 |              ****             |             ****          |            
@@ -18,4 +12,4 @@ Here is a small food app that I have built. it’s my first Flutter application.
 | <img src="lib/screenshots/trois.png" width="350"> |  <img src="lib/screenshots/quatre.png" width="350"> | 
 
 
-</details>
+
