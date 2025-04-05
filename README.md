@@ -12,7 +12,10 @@ Here is a small food app that I actually built; it’s my first Flutter applicat
 
 |              ****             |             ****          |            
 | :----------------------------------: | :----------------------------------: | 
-| <img src="lib/screenshots/un.png" width="350"> |  <img src="lib/screenshots/deux.png" width="350"> | 
+| <img src="lib/screenshots/deux.png" width="350"> |  <img src="lib/screenshots/un.png" width="350"> | 
+|              ****             |             ****          |            
+| :----------------------------------: | :----------------------------------: | 
+| <img src="lib/screenshots/trois.png" width="350"> |  <img src="lib/screenshots/quatre.png" width="350"> | 
 
 
 </details>
