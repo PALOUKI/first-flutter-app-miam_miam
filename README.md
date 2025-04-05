@@ -1,5 +1,5 @@
 # miam_miam
-Here is a small food app that I actually built; it’s my first Flutter application. miam_miam is an application that I coded to practice CRUD in Flutter.
+Here is a small food app that I have built. it’s my first Flutter application. miam_miam is an application that I coded to practice CRUD in Flutter using firebase.
 
 <details>
 <summary>📷 <h2>Screenshots<h2/></summary>
